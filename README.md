@@ -24,7 +24,7 @@ You can find a summary of many of the commands used in the exercises in the
 
 ## Exercises
 
-* [01-pods-deployments.md](01-pods-deployments.md)
+- [ ] [01-pods-deployments.md](01-pods-deployments.md)
 * [02-service-discovery-and-loadbalancing.md](02-service-discovery-and-loadbalancing.md)
 * [03-rolling-updates.md](03-rolling-updates.md)
 * [04-secrets-configmaps.md](04-secrets-configmaps.md)
